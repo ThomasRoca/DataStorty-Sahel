@@ -25,7 +25,7 @@ map: http://www.openstreetmap.org/
 **Population:** http://www.worldpop.org.uk
 **Violence:** http://www.acleddata.com/
 **Occupation des sols:** https://modis.gsfc.nasa.gov/data/dataprod/mod12.php
-***Perception:** http://www.afrobarometer.org/fr/pays/
+**Perception:** http://www.afrobarometer.org/fr/pays/
 
 **Open data nationaux - via ADB**
 Mauritanie: http://mauritania.opendataforafrica.org/data#menu=topic
