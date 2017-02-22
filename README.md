@@ -2,6 +2,8 @@
 
 ![](make_storming_sahel.png)
 
+<iframe src="http://api.tiles.mapbox.com/v3/gfdrr-labs.map-44bl16ot,fews-net.sahel-fewsnet-foodsecurity-apriljune-2012/mm/zoompan,tooltips,legend,bwdetect.html#5/20.006412000431233/0.14257812500001207"></iframe>
+
 ### C'est quoi ?
 Une Exploration #DataDriven du Sahel
 
@@ -15,6 +17,8 @@ Corporate Hackers @AFD Group (CHAG)
 ** C'est collaboratif **
 - 3 demi journée mode #Makestorming
 - Homework
+
+
 
 ### Source de données explorées ?
 **Generaliste**
